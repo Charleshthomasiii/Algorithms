@@ -1,1 +1,1 @@
-Each of these algorithms takes input from the stdin and outputs to stdout. The algorithms are programmed in either java or python, and are all implementations of advanced algorithms. Any graph problem uses a sparse representation.
+Each of these algorithms takes input from the stdin and outputs to stdout. The algorithms are programmed in either java or python, and are all implementations of advanced algorithms. Any graph problem uses a sparse representation. Find the documentation for usage at the top of each file as a comment.

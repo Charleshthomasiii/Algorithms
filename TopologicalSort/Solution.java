@@ -1,4 +1,4 @@
-//Code by Charles Thomas, cht327@nyu.edu, Basic Algorithms with Victor Shoup
+//Code by Charles Thomas, cht327@nyu.edu
 //Input: The first line contains two numbers n , m.  The number of nodes of and edges, respectively.
 //The next lines contain two numbers a,b denoting each edge, which means that to reach the b'th node needs the a'th node needs to be reached.
 //This implementation uses are sparse representation of the graph, and implements a basic topological sort
